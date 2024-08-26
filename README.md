@@ -4,7 +4,7 @@
 
 I'm a beginner web developer who loves creating cool and efficient solutions. I'm focused on frontend development and excited to learn more about backend technologies. I'm looking for a great team to join and work on interesting projects.
 
-- 🔭 I’m currently working on [PlayInsight](https://github.com/KusYourHeart/PlayInsight-App).
+- 🔭 I’m currently working on [PlayInsight](https://github.com/KusYourHeart/PlayInsight-App). Currently private(laravel/next.js)
 - 🌱 I’m currently learning [Next.js, Laravel]
 - 📫 How to reach me: [iiwonderwhyii@gmail.com]
 
